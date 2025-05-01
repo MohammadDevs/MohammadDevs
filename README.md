@@ -1,59 +1,64 @@
-# Deen Muhammad - MERN Stack Web Developer
+Deen Muhammad - Front-End Web Developer
+Welcome to my GitHub profile!
+I'm Deen Muhammad, a passionate and creative Front-End Web Developer. I specialize in building user-friendly, responsive, and interactive websites using React, JavaScript, HTML, and CSS.
 
-Welcome to my GitHub profile! I'm **Deen Muhammad**, a passionate and skilled **MERN Stack Web Developer**. I specialize in building modern web applications using **MongoDB**, **Express.js**, **React**, and **Node.js**. 
+This repository contains some of my personal and professional projects that showcase my skills in modern front-end development. Feel free to explore and ⭐ your favorites!
 
-This repository contains some of my personal and professional projects, showcasing my expertise in web development. Feel free to explore and contribute if you find anything interesting!
+🔧 Technologies & Tools
+Frontend:
+React.js, JavaScript (ES6+), HTML5, CSS3, Redux Toolkit, Bootstrap, Tailwind CSS, Material UI
 
-## 🔧 Technologies & Tools
+Tools & Workflow:
+Git, GitHub, VS Code, Chrome DevTools, Figma, Postman
 
-- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+), Redux, Bootstrap, Material UI
-- **Backend:** Node.js, Express.js, RESTful APIs
-- **Database:** MongoDB, Mongoose
-- **Authentication:** JWT, OAuth
-- **Version Control:** Git, GitHub, GitLab
-- **Deployment:** Heroku, Netlify, Vercel, DigitalOcean
-- **Others:** Postman, Docker, Nginx, Webpack, Firebase
+Deployment:
+Netlify, Vercel, GitHub Pages
 
-## 🚀 Projects
+🚀 Projects
+Product Listing Website
+A dynamic React-based product listing site with table layout and interactive UI.
 
-### [Project 1 Name](#)
-A brief description of your project. For example, it could be a task manager app, e-commerce site, or blog platform.
+Tech Stack: React, Tailwind CSS
 
-- **Tech Stack:** React, Node.js, Express, MongoDB
-- **Key Features:**
-  - User authentication with JWT
-  - Real-time data updates using WebSockets
-  - CRUD operations for managing tasks/products
+Key Features:
 
-### [Project 2 Name](#)
-Another project with a brief description.
+Table view with live data
 
-- **Tech Stack:** React, Node.js, MongoDB, Material UI
-- **Key Features:**
-  - User-friendly interface
-  - RESTful API integration
-  - Responsive design
+Bid and like system with heart icon
 
-Feel free to check out all of my projects and give them a ⭐ if you find them useful!
+Clean, responsive UI
 
-## 📈 Stats
+Responsive Portfolio Website
+My personal portfolio showcasing my skills and projects.
 
-![Deen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deenmuhammad&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
+Tech Stack: HTML, CSS, JavaScript
 
-## 🌱 I'm currently learning...
+Key Features:
 
-- Advanced TypeScript
-- GraphQL
-- Cloud Computing (AWS, Google Cloud)
+Smooth navigation
 
-## 📫 How to reach me:
+Mobile-first responsive design
 
-- Email: [deen.muhammad@example.com](mailto:deen.muhammad@example.com)
-- LinkedIn: [Deen Muhammad](https://www.linkedin.com/in/deenmuhammad/)
-- Twitter: [@DeenMuhammad](https://twitter.com/DeenMuhammad)
+Clean and modern layout
 
-Feel free to reach out for collaborations or any queries related to web development!
+📈 GitHub Stats
 
----
 
-#### Happy coding! 👨‍💻
+🌱 I'm currently learning...
+Advanced JavaScript & ES6+
+
+React Hooks and Context API
+
+Framer Motion (for animation)
+
+UI/UX Design Principles
+
+📫 How to reach me:
+Email: deen.muhammad@example.com
+
+LinkedIn: Deen Muhammad
+
+Twitter: @DeenMuhammad
+
+Happy coding! 👨‍💻
+Let’s build beautiful interfaces together!
