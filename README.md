@@ -54,7 +54,9 @@ Framer Motion (for animation)
 UI/UX Design Principles
 
 📫 How to reach me:
-Email: deen.muhammad@example.com
+Email: muhammeddevs20@gmail.com
+Profile image
+muhammeddevs20@gmail.com
 
 LinkedIn: Deen Muhammad
 
